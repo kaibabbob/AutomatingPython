@@ -1,0 +1,8 @@
+---
+- !!python/unicode 'key1': !!python/unicode 'value1'
+  !!python/unicode 'key2': !!python/unicode 'value2'
+- !!python/unicode 'cars'
+- !!python/unicode 'planes'
+- - !!python/unicode 'red'
+  - !!python/unicode 'blue'
+  - !!python/unicode 'green'
